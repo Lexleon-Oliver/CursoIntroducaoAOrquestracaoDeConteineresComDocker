@@ -1,0 +1,19 @@
+*Run -> Criação do conteiner
+*Ps -> Listar os Conteiners
+*Info -> retorna as informações do nosso docker
+*Images -> imagens utilizadas para criar nossos conteiners
+*Exec -> executar outro binário do conteiner (ex. Execução do sh do conteiner); permite tbm rodar comandos especificos
+dentro do conteiner
+*Stop, start -> Parar e iniciar o conteiner
+*Logs -> retorna os outputs e logs do conteiner
+*Inspect -> retorna todas as configurações utilizadas no conteiner
+*Pull -> baixa as imagens do nosso repositorio privado ou publico
+*Commit -> comitar modificições feitas nos nossos conteiners
+*Tag -> Melhorar o versionamento
+*Login, Logout -> usado para logar no nosso repositorio privado ou publico
+*Push -> compartilhar ou armazenar no nosso repositorio uma imagem apos o build
+*Search -> para procurar uma imagem
+*Rm -> remove o conteiner
+*Rmi -> remove uma imagem
+*Export, import -> exporta um conteiner gerando uma imagem
+*Save, load ->
